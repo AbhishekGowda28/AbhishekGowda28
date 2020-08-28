@@ -14,6 +14,11 @@
   [Link to the Repo](https://github.com/AbhishekGowda28/vscode-theme/tree/master/tellmethetime)
   
   ---
+- Collection of Algorithms 
+  
+  [Link to the Repo](https://github.com/AbhishekGowda28/algorithms) 
+  
+  ---
 <!--
 **AbhishekGowda28/AbhishekGowda28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
