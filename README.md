@@ -6,17 +6,17 @@
 
 - Dinner Dark Theme [Download me](https://github.com/AbhishekGowda28/vscode-theme/raw/master/dinnertheme/dinnertheme-0.0.1.vsix)
 
-  [Link to the Repo](https://github.com/AbhishekGowda28/vscode-theme/tree/master/dinnertheme)
+  [Link to the Repo 🗂](https://github.com/AbhishekGowda28/vscode-theme/tree/master/dinnertheme)
   
   ---
 - Tell Me the Time ⏰ [Download me](https://github.com/AbhishekGowda28/vscode-theme/raw/master/tellmethetime/tellmethetime-0.0.1.vsix)
 
-  [Link to the Repo](https://github.com/AbhishekGowda28/vscode-theme/tree/master/tellmethetime)
+  [Link to the Repo 🗂](https://github.com/AbhishekGowda28/vscode-theme/tree/master/tellmethetime)
   
   ---
-- Collection of Algorithms 
+## Collection of Algorithms 
   
-  [Link to the Repo](https://github.com/AbhishekGowda28/algorithms) 
+  👉 [I will take you to the Repo 🗂](https://github.com/AbhishekGowda28/algorithms) 
   
   ---
 <!--
