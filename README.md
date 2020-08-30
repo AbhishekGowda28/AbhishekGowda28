@@ -19,6 +19,7 @@
   👉 [I will take you to the Repo 🗂](https://github.com/AbhishekGowda28/algorithms) 
   
   ---
+  ![Visitor Count](https://profile-counter.glitch.me/AbhishekGowda28/count.svg)
 <!--
 **AbhishekGowda28/AbhishekGowda28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
