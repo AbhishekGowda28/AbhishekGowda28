@@ -20,6 +20,8 @@
   
   ---
   ![Visitor Count](https://profile-counter.glitch.me/AbhishekGowda28/count.svg)
+  
+ You can find more details [here](https://abhigowdablog.wordpress.com/) 
 <!--
 **AbhishekGowda28/AbhishekGowda28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
