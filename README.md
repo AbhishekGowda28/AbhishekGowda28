@@ -14,9 +14,18 @@
   [Link to the Repo 🗂](https://github.com/AbhishekGowda28/vscode-theme/tree/master/tellmethetime)
   
   ---
+  
+## Access to Sample data 
+
+  
+  ```https://my-json-server.typicode.com/abhishekgowda28/sampledata/<property_name>```
+  ---
+  
 ## Collection of Algorithms 
   
   👉 [I will take you to the Repo 🗂](https://github.com/AbhishekGowda28/algorithms) 
+  
+  ---
   
   ---
   ![Visitor Count](https://profile-counter.glitch.me/AbhishekGowda28/count.svg)
